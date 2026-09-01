@@ -1,3 +1,15 @@
+/*
+=========================================================
+DDL Bronze Layer
+=========================================================
+Script Purpose:
+	- This script creates new tables in the bronze schema by dropping if it already exist
+	- Run this script to define the structure of the table in bronze schema
+
+*/
+
+
+
 USE DataWarehouse;
 GO
 
