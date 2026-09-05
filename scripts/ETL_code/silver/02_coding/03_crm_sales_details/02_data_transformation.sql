@@ -1,5 +1,5 @@
 WITH base_query AS (
-SELECT TOP 100 
+SELECT
 	sls_ord_num,
 	sls_prd_key,
 	sls_cust_id,
